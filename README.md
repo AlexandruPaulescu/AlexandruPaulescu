@@ -1,4 +1,4 @@
-# Welcome to [Your Username]'s Unity Playground! 🎮
+# Welcome! 🎮
 
 ![Unity Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png)
 
